@@ -1,0 +1,2 @@
+# carsharing
+dbt training project
