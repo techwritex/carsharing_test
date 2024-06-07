@@ -1,2 +1,2 @@
-# carsharing
-dbt training project
+# carsharing_test
+just a dbt training project
